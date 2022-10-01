@@ -265,9 +265,9 @@ section.about .container{
     gap: 5rem;
 }
 
-/*section.about .container .image img{
-    height: 20rem;
-}*/
+section.about .container .image img{
+    display: block;
+}
 
 section.about p{
     margin-bottom: 1rem;
